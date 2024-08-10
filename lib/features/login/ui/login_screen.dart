@@ -73,7 +73,7 @@ class _LoginScreenState extends State<LoginScreen> {
                         onPressed: () {}),
                     verticalSpace(16),
                     const TermsAndConditionsText(),
-                    verticalSpace(60),
+                    verticalSpace(50),
                     const AlreadyHaveAccountText(),
                   ],
                 ),
